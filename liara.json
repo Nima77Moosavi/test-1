@@ -1,4 +1,3 @@
 {
-  "port": 8000,
-  "dockerfile": "Dockerfile.prod"
+  "port": 8000
 }
